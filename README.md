@@ -22,9 +22,3 @@
 ![Naver](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white)
 
 ---
-
-# jkh7562's GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kmea2504&show_icons=true&theme=dark&count_private=true)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kmea2504&layout=compact&theme=dark)
