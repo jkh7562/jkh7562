@@ -1,4 +1,4 @@
-# STACK
+## STACK
 
 ### Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
@@ -9,14 +9,14 @@
 
 ---
 
-# TOOLS
+## TOOLS
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
-# CONTACTS
+## CONTACTS
 
 ![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)
 ![Naver](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white)
