@@ -9,6 +9,7 @@
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### TOOLS
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-8E44AD?style=for-the-badge&logo=intellij-idea&logoColor=white)
