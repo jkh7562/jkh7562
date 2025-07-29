@@ -1,5 +1,3 @@
-# 👋 Hello, I'm a Full-Stack Developer!
-
 ## 💻 Tech Stack
 
 ### Programming Languages
