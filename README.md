@@ -62,13 +62,3 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jkh75622222@gmail.com)](mailto:jkh75622222@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:l7562l@naver.com)](mailto:l7562l@naver.com)
-
----
-
-<div align="center">
-  
-**"Building innovative solutions with passion and dedication"** 🚀
-
-![Profile Views](https://komarev.com/ghpvc/?username=jkh7562&color=blueviolet&style=for-the-badge)
-
-</div>
